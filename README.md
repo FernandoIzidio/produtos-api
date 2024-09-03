@@ -11,7 +11,7 @@ Esta é uma API simples de autenticação que utiliza **Express**, **Sequelize**
 - **jsonwebtoken**: Biblioteca para geração e verificação de tokens JWT.
 
 ## Cliente para consumir API: 
-https://github.com/FernandoIzidio/produtos-api/
+https://github.com/FernandoIzidio/produtos-spa/
 
 ## Instalação
 
