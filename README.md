@@ -10,7 +10,11 @@ Esta é uma API simples de autenticação que utiliza **Express**, **Sequelize**
 - **bcryptjs**: Biblioteca para criptografia de senhas.
 - **jsonwebtoken**: Biblioteca para geração e verificação de tokens JWT.
 
+## Cliente para consumir API: 
+https://github.com/FernandoIzidio/produtos-api/
+
 ## Instalação
+
 
 ### 1. Clone o repositório:
 
